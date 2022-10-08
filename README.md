@@ -1,2 +1,2 @@
 # webgis-forum
-Diskussionsforum für WebGIS
+Diskussionsforum für WebGIS auf Deutsch
